@@ -1,0 +1,10 @@
+F:\VSproj\jiidanqi\jidianqi\bin\Debug\jidianqi.exe.config
+F:\VSproj\jiidanqi\jidianqi\bin\Debug\jidianqi.exe
+F:\VSproj\jiidanqi\jidianqi\bin\Debug\jidianqi.pdb
+F:\VSproj\jiidanqi\jidianqi\obj\Debug\jidianqi.csprojAssemblyReference.cache
+F:\VSproj\jiidanqi\jidianqi\obj\Debug\jidianqi.Form1.resources
+F:\VSproj\jiidanqi\jidianqi\obj\Debug\jidianqi.Properties.Resources.resources
+F:\VSproj\jiidanqi\jidianqi\obj\Debug\jidianqi.csproj.GenerateResource.cache
+F:\VSproj\jiidanqi\jidianqi\obj\Debug\jidianqi.csproj.CoreCompileInputs.cache
+F:\VSproj\jiidanqi\jidianqi\obj\Debug\jidianqi.exe
+F:\VSproj\jiidanqi\jidianqi\obj\Debug\jidianqi.pdb
